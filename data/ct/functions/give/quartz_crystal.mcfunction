@@ -1,0 +1,1 @@
+give @p minecraft:quartz{display:{Name:"{\"text\":\"Quartz Crystal\",\"color\":\"aqua\",\"italic\":false}"},CustomModelData:7}

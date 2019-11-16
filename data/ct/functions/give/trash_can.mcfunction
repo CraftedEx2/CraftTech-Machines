@@ -1,0 +1,1 @@
+give @p minecraft:bat_spawn_egg{display:{Name:"{\"text\":\"Trash Can\",\"color\":\"green\",\"bold\":true,\"italic\":false}"},CustomModelData:5,EntityTag:{Silent:1b,NoAI:1b,Tags:["trashbinS"],ActiveEffects:[{Id:14b,Amplifier:255b,Duration:1000000,ShowParticles:0b}]}} 1

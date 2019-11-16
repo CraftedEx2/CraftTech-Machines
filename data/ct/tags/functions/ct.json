@@ -1,0 +1,11 @@
+{
+		"values": [
+		"ct:give/block_breaker",
+		"ct:give/quarry",
+		"ct:give/machine_frame",
+		"ct:give/ender_hopper",
+		"ct:give/speed_upgrade",
+		"ct:give/quartz_crystal",
+		"ct:give/empowering_crystal"
+	]
+}

@@ -1,0 +1,1 @@
+give @p minecraft:diamond_hoe{display:{Name:"{\"text\":\"Machine Frame\",\"color\":\"aqua\",\"italic\":false}"},HideFlags:6,Unbreakable:1b,CustomModelData:6}

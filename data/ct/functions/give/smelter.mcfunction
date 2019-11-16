@@ -1,0 +1,1 @@
+give @p minecraft:bat_spawn_egg{display:{Name:"{\"text\":\"Smelter\",\"color\":\"green\",\"bold\":true,\"italic\":false}"},CustomModelData:7,EntityTag:{Silent:1b,NoAI:1b,Tags:["smelterS"],ActiveEffects:[{Id:14b,Amplifier:255b,Duration:1000000,ShowParticles:0b}]}} 1

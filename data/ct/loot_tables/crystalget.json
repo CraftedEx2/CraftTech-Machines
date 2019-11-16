@@ -1,0 +1,30 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:quartz",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 0.4
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Quartz Crystal\\\",\\\"color\\\":\\\"aqua\\\",\\\"italic\\\":false}\"},CustomModelData:7}"
+                        }
+                    ]
+                },
+                {
+                    "type": "empty",
+                    "weight": 2
+                }
+            ]
+        }
+    ]
+}

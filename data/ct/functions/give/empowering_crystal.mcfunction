@@ -1,0 +1,1 @@
+give @p minecraft:emerald{display:{Name:"{\"text\":\"Crystal of Empowering\",\"color\":\"aqua\",\"italic\":\"false\"}"},HideFlags:1b,Enchantments:[{id:"minecraft:unbreaking",lvl:1}]}
